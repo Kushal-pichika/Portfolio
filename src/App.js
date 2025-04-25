@@ -96,7 +96,7 @@ function App() {
               <h3>Power Track</h3>
               <p><i>A smart electricity monitoring and optimization system.</i><br /><br />
                 Using ESP32, Blynk Cloud, and Wokwi Simulator, Power Track helps monitor real-time energy consumption and reduce power waste. Users can remotely access data via the Blynk app, making it ideal for smart home setups.</p><br/>
-              <a href="" className="github-link" target="_blank" rel="noopener noreferrer">
+              <a href="##" className="github-link" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github"></i> GitHub
               </a>
             </div>
